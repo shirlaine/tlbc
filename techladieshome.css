@@ -1,4 +1,8 @@
 
+html body{
+	background-color: 	#F0F0F0;
+}
+
 
 .title {
 	color: #7A378B;
@@ -8,13 +12,49 @@
 }
 
 .container{
+	background-color: 	#F0F0F0;
 
 }
 
-.row {
-
+.row .toptext {
+	font-family: Helvetica;
+	font-size: 18px;
+	margin-top: 25px;
 }
 
 .column{
 
+}
+
+.row .container-photos {
+	padding-left: 20px;
+
+
+}
+
+.photos{
+
+	padding: 37px;
+	margin-left: 75px;
+}
+
+	
+
+.middle-text{
+	margin-top: 150px;
+	margin-left:135px;
+	font-family: arial !important;
+	font-size: 20px !important;
+
+	
+	
+}
+
+.middle-text-small{
+	margin-top: -10px;
+	margin-left:155px;
+	font-family: ;
+	font-size: 13px;
+	
+	
 }

@@ -41,7 +41,7 @@ html body{
 	
 
 .middle-text{
-	margin-top: 150px;
+	margin-top: 165px;
 	margin-left:135px;
 	font-family: arial !important;
 	font-size: 20px !important;
@@ -57,4 +57,39 @@ html body{
 	font-size: 13px;
 	
 	
+}
+
+.row .bottomtext{
+	font-family: Helvetica;
+	font-size: 18px;
+	margin-top: 40px;
+
+}
+
+.button{
+	
+	text-align: center;
+	margin-top: 10px;
+}
+
+.supporters{
+	text-align: center;	
+	padding-top: 60px;
+}
+
+.sponsors{
+
+	margin-left: 90px;
+}
+
+.space{
+	margin: 10px;
+	margin-top: 30px;
+}
+
+.email{
+	text-align: center;
+	font-size: 14px;
+	margin-top:15px;
+	font-family: Helvetica;
 }
